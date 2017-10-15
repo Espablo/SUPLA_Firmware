@@ -8,7 +8,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
 
 GPIO settings:
 
->RELAY_1 = GPIO5
+RELAY_1 = GPIO5
 
 RELAY_2 = GPIO13
 
