@@ -12,9 +12,9 @@ RELAY_1 = GPIO5
 
 RELAY_2 = GPIO13
 
-CONFIG (switch) = GPIO4
+CONFIG (switch x10) = GPIO4
 
-BUTTON CONFIG (button) = GPIO0
+BUTTON_CONFIG (button) = GPIO0
 	
 BUTTON_1 = GPIO14
 
