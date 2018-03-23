@@ -34,9 +34,13 @@ LED_CONFIG = GPIO2
 Initial parameters for "ESP Falsh Download Tool":
 
 CreystalFreq    26M
+
 SPI SPEED       40 MHz
+
 SPI MODE        QIO
+
 BAUDRATE        11520
+
 FLASH SIZE      32Mbit (4MByte)
 
 inCan_4096_eagle.flash.bin-------->0x00000
