@@ -13,6 +13,8 @@ RELAY_1 = GPIO5
 RELAY_2 = GPIO13
 
 CONFIG (switch) = GPIO4
+
+BUTTON CONFIG (button) = GPIO0
 	
 BUTTON_1 = GPIO14
 
@@ -41,7 +43,7 @@ SPI MODE QIO
 
 BAUDRATE 11520
 
-inCan_2048_eagle.flash.bin-------->0x00000
+inCan_4096_eagle.flash.bin-------->0x00000
 
-inCan_2048_eagle.irom0text.bin---->0x40000
+inCan_4096_eagle.irom0text.bin---->0x40000
 
