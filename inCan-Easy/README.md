@@ -39,7 +39,7 @@ SPI SPEED 40 MHz
 
 FLASH MODE DOUT
 
-BAUDRATE 11520
+BAUDRATE 115200
 
 inCan_easy_4096_eagle.flash.bin-------->0x00000
 

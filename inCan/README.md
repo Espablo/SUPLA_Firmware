@@ -1,6 +1,6 @@
 # Board inCan by Espablo
-Supla for ESP8266
-
+Supla for ESP8266 
+Firmware v2.7
 
 Source code: https://github.com/SUPLA/supla-espressif-esp
 
@@ -39,7 +39,7 @@ SPI SPEED       40 MHz
 
 SPI MODE        QIO
 
-BAUDRATE        11520
+BAUDRATE        115200
 
 FLASH SIZE      32Mbit (4MByte)
 
