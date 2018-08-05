@@ -1,6 +1,6 @@
 # Board inCan by Espablo
-Supla for ESP8266 
-Firmware v2.7
+Supla for ESP8266 </br>
+Firmware v2.7.2
 
 Source code: https://github.com/SUPLA/supla-espressif-esp
 
