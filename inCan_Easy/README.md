@@ -41,9 +41,20 @@ FLASH MODE      DOUT
 
 BAUDRATE        115200
 
+-------------------------------------------------
+
 FLASH SIZE      32Mbit (4MByte)
 
 inCan_easy_4096_eagle.flash.bin-------->0x00000
 
 inCan_easy_4096_eagle.irom0text.bin---->0x40000
+
+-------------------------------------------------
+
+FLASH SIZE      8Mbit (1MByte)
+
+inCan_easy_1024_eagle.flash.bin-------->0x00000
+
+inCan_easy_1024_eagle.irom0text.bin---->0x40000
+
 
