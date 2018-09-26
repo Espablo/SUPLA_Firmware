@@ -4,6 +4,7 @@ Firmware v2.7.2
 
 Source code: https://github.com/SUPLA/supla-espressif-esp
 
+Description https://forum.supla.org/viewtopic.php?f=11&t=3843
 
 <b>Supported modules:</b><br />
 <b>- inCan,</b><br />
