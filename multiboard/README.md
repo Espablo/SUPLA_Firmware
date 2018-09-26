@@ -5,8 +5,8 @@ Firmware v2.7.2
 Source code: https://github.com/SUPLA/supla-espressif-esp
 
 
-Supported modules:
-- inCan,<br />
+<b>Supported modules:
+- inCan,</b><br />
     GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
     GPIO16 - Sensor2<br />
@@ -18,7 +18,7 @@ Supported modules:
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
 
-- inCan RollerShutter,<br />
+<b>- inCan RollerShutter,<br />
     GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
     GPIO16 - Sensor2<br />
@@ -30,14 +30,81 @@ Supported modules:
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
 
-- Sensors x8,
-- SONOFF BASIC,
-- SONOFF TH,
-- SONOFF TOUCH,
-- SONOFF TOUCH DUAL,
-- SONOFF TOUCH TRIPLE,
-- SONOFF_4CH,
-- Yunshan,
+<b>- Sensors x8,</b>
+    GPIO4 - Sensor1<br />
+    GPIO5 - Sensor2<br />
+    GPIO16 - Sensor3<br />
+    GPIO12 - Sensor4<br />
+    GPIO13 - Sensor5<br />
+    GPIO14 - Sensor6<br />
+    GPIO3 - Sensor7<br />
+    GPIO1 - Sensor8<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO2 - LED CFG<br />
+
+<b>- SONOFF BASIC,</b>
+    GPIO14 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO12 - Relay1<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO13 - LED CFG<br />
+
+<b>- SONOFF TH,</b>
+    GPIO14 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO12 - Relay1<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO13 - LED CFG<br />
+
+<b>- SONOFF TOUCH,</b>
+    GPIO2 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO12 - Relay1<br />
+    GPIO2 - Button Configure (5s)<br />
+    GPIO13 - LED CFG<br />
+
+<b>- SONOFF TOUCH DUAL,</b>
+    GPIO2 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO9 - Button2<br />
+    GPIO12 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO9 - Button Configure (5s)<br />
+    GPIO13 - LED CFG<br />
+
+<b>- SONOFF TOUCH TRIPLE,</b>
+    GPIO2 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO9 - Button2<br />
+    GPIO10 - Button3<br />
+    GPIO12 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO4 - Relay3<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO13 - LED CFG<br />
+
+<b>- SONOFF_4CH,</b>
+    GPIO2 - Temperature<br />
+    GPIO0 - Button1<br />
+    GPIO9 - Button2<br />
+    GPIO10 - Button3<br />
+    GPIO14 - Button4<br />
+    GPIO12 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO4 - Relay3<br />
+    GPIO15 - Relay4<br />
+    GPIO0 - Button Configure (x10)<br />
+    GPIO2 - LED CFG<br />
+
+<b>- Yunshan,</b>
+    GPIO3 - Temperature<br />
+    GPIO1 - Button1<br />
+    GPIO4 - Relay1<br />
+    GPIO5 - Sensor1<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO2 - LED CFG<br />
+
 -------------------------------------------------
 
 Initial parameters for "ESP Falsh Download Tool":
