@@ -5,8 +5,8 @@ Firmware v2.7.2
 Source code: https://github.com/SUPLA/supla-espressif-esp
 
 
-<b>Supported modules:
-- inCan,</b><br />
+<b>Supported modules:</b><br />
+<b>- inCan,</b><br />
     GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
     GPIO16 - Sensor2<br />
@@ -30,7 +30,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
 
-<b>- Sensors x8,</b>
+<b>- Sensors x8,</b><br />
     GPIO4 - Sensor1<br />
     GPIO5 - Sensor2<br />
     GPIO16 - Sensor3<br />
@@ -42,14 +42,14 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
 
-<b>- SONOFF BASIC,</b>
+<b>- SONOFF BASIC,</b><br />
     GPIO14 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO12 - Relay1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
-<b>- SONOFF TH,</b>
+<b>- SONOFF TH,</b><br />
     GPIO14 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO12 - Relay1<br />
@@ -63,7 +63,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO2 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
-<b>- SONOFF TOUCH DUAL,</b>
+<b>- SONOFF TOUCH DUAL,</b><br />
     GPIO2 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO9 - Button2<br />
@@ -73,7 +73,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO9 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
-<b>- SONOFF TOUCH TRIPLE,</b>
+<b>- SONOFF TOUCH TRIPLE,</b><br />
     GPIO2 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO9 - Button2<br />
@@ -84,7 +84,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
-<b>- SONOFF_4CH,</b>
+<b>- SONOFF_4CH,</b><br />
     GPIO2 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO9 - Button2<br />
@@ -97,7 +97,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO0 - Button Configure (x10)<br />
     GPIO2 - LED CFG<br />
 
-<b>- Yunshan,</b>
+<b>- Yunshan,</b><br />
     GPIO3 - Temperature<br />
     GPIO1 - Button1<br />
     GPIO4 - Relay1<br />
