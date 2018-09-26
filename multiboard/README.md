@@ -18,7 +18,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
 
-<b>- inCan RollerShutter,<br />
+<b>- inCan RollerShutter,</b><br />
     GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
     GPIO16 - Sensor2<br />
