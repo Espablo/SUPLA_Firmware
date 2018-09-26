@@ -56,7 +56,7 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
-<b>- SONOFF TOUCH,</b>
+<b>- SONOFF TOUCH,</b><br />
     GPIO2 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO12 - Relay1<br />
