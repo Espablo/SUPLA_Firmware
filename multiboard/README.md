@@ -7,7 +7,29 @@ Source code: https://github.com/SUPLA/supla-espressif-esp
 
 Supported modules:
 - inCan,
+    GPIO2 - Temperature<br />
+    GPIO4 - Sensor1
+    GPIO16 - Sensor2
+    GPIO14 - Button1
+    GPIO12 - Button2
+    GPIO5 - Relay1
+    GPIO13 - Relay2
+    GPIO0 - Button Configure (5s)
+    GPIO4 - Input CFG (x10)
+    GPIO2 - LED CFG
+
 - inCan RollerShutter,
+    GPIO2 - Temperature
+    GPIO4 - Sensor1
+    GPIO16 - Sensor2
+    GPIO14 - Button1
+    GPIO12 - Button2
+    GPIO5 - Relay1
+    GPIO13 - Relay2
+    GPIO0 - Button Configure (5s)
+    GPIO4 - Input CFG (x10)
+    GPIO2 - LED CFG
+
 - Sensors x8,
 - SONOFF BASIC,
 - SONOFF TH,
