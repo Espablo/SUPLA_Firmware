@@ -31,7 +31,7 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
 
-<b>- Sensors x8,</b><br />
+<b>- SENSORS x8,</b><br />
     GPIO4 - Sensor1<br />
     GPIO5 - Sensor2<br />
     GPIO16 - Sensor3<br />
@@ -40,6 +40,20 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO14 - Sensor6<br />
     GPIO3 - Sensor7<br />
     GPIO1 - Sensor8<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO2 - LED CFG<br />
+
+<b>- RELAYS x9,</b><br />
+    GPIO2 - Temperature<br />
+    GPIO1 - Relay1<br />
+    GPIO3 - Relay2<br />
+    GPIO4 - Relay3<br />
+    GPIO5 - Relay4<br />
+    GPIO12 - Relay5<br />
+    GPIO13 - Relay6<br />
+    GPIO14 - Relay7<br />
+    GPIO15 - Relay8<br />
+    GPIO16 - Relay9<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
 
