@@ -32,6 +32,7 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO2 - LED CFG<br />
 
 <b>- SENSORS x8,</b><br />
+    GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
     GPIO5 - Sensor2<br />
     GPIO16 - Sensor3<br />
@@ -52,7 +53,7 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO12 - Relay5<br />
     GPIO13 - Relay6<br />
     GPIO14 - Relay7<br />
-    GPIO15 - Relay8<br />
+    GPIO15 - Relay8 - this port must have LOW after enabling or resetting the module<br />
     GPIO16 - Relay9<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
