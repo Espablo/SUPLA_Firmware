@@ -60,8 +60,8 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
 
 <b>- SONOFF BASIC,</b><br />
     GPIO3 - Temperature<br />
-    GPIO14 - Button1<br />
-    GPIO0 - Button2<br />
+    GPIO0 - Button1<br />
+    GPIO14 - Button2<br />
     GPIO12 - Relay1<br />
     GPIO1 - Sensor1<br />
     GPIO0 - Button Configure (5s)<br />
