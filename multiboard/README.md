@@ -113,7 +113,7 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO4 - Relay3<br />
     GPIO15 - Relay4<br />
     GPIO0 - Button Configure (x10)<br />
-    GPIO2 - LED CFG<br />
+    GPIO13 - LED CFG<br />
 
 <b>- Yunshan,</b><br />
     GPIO3 - Temperature<br />
