@@ -59,11 +59,11 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO2 - LED CFG<br />
 
 <b>- SONOFF BASIC,</b><br />
-    GPIO3 - Temperature<br />
+    GPIO1 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO14 - Button2<br />
     GPIO12 - Relay1<br />
-    GPIO1 - Sensor1<br />
+    GPIO3 - Sensor1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
 
