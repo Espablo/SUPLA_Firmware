@@ -112,12 +112,13 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843
     GPIO5 - Relay2<br />
     GPIO4 - Relay3<br />
     GPIO15 - Relay4<br />
+    GPIO3 - Sensor1<br />
     GPIO0 - Button Configure (x10)<br />
     GPIO13 - LED CFG<br />
 
 <b>- Yunshan,</b><br />
-    GPIO3 - Temperature<br />
-    GPIO1 - Button1<br />
+    GPIO1 - Temperature<br />
+    GPIO3 - Button1<br />
     GPIO4 - Relay1<br />
     GPIO5 - Sensor1<br />
     GPIO0 - Button Configure (5s)<br />
