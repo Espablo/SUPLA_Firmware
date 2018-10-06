@@ -126,6 +126,18 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
 
+<b>- Shelly 1,</b><br />
+    GPIO5 - Button1<br />
+    GPIO4 - Relay1<br />
+    GPIO0 - Button Configure (5s)<br />
+
+<b>- Shelly 2,</b><br />
+    GPIO12 - Button1<br />
+    GPIO14 - Button2<br />
+    GPIO4 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO0 - Button Configure (5s)<br />
+
 -------------------------------------------------
 
 Initial parameters for "ESP Falsh Download Tool":
