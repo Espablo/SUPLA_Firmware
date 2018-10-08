@@ -138,11 +138,11 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
 
 -------------------------------------------------
 
-Initial parameters for "ESP Falsh Download Tool":
+Initial parameters for "ESP Flash Download Tool":
 
-CreystalFreq    26M
+CrystalFreq     26M
 
-SPI SPEED       40 MHz
+SPI SPEED       40MHz
 
 FLASH MODE      DOUT
 
