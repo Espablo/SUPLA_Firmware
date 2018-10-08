@@ -28,11 +28,11 @@ LED_CONFIG = GPIO2
 
 -------------------------------------------------
 
-Initial parameters for "ESP Falsh Download Tool":
+Initial parameters for "ESP Flash Download Tool":
 
-CreystalFreq    26M
+CrystalFreq    26M
 
-SPI SPEED       40 MHz
+SPI SPEED       40MHz
 
 FLASH MODE      DOUT
 
