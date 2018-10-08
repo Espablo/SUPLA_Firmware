@@ -2,8 +2,6 @@
 Supla for ESP8266 </br>
 Firmware v2.7.2
 
-Source code: https://github.com/SUPLA/supla-espressif-esp
-
 
 GPIO settings:
 
