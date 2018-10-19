@@ -7,6 +7,18 @@ Description https://forum.supla.org/viewtopic.php?f=11&t=3843<br />
 GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
 
 <b>Supported modules:</b><br />
+<b>- ElectroDragon,</b><br />
+    GPIO0 - Button1<br />
+    GPIO2 - Button2<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO16 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
+    GPIO4 - User Configurable<br />
+    GPIO5 - User Configurable<br />
+    GPIO14 - User Configurable<br />
+    GPIO15 - User Configurable<br />
+
 <b>- inCan,</b><br />
     GPIO2 - Temperature<br />
     GPIO4 - Sensor1<br />
@@ -18,6 +30,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO0 - Button Configure (5s)<br />
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- inCan RollerShutter,</b><br />
     GPIO2 - Temperature<br />
@@ -30,19 +44,14 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO0 - Button Configure (5s)<br />
     GPIO4 - Input CFG (x10)<br />
     GPIO2 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
-<b>- SENSORS x8,</b><br />
-    GPIO2 - Temperature<br />
-    GPIO4 - Sensor1<br />
-    GPIO5 - Sensor2<br />
-    GPIO16 - Sensor3<br />
-    GPIO12 - Sensor4<br />
-    GPIO13 - Sensor5<br />
-    GPIO14 - Sensor6<br />
-    GPIO3 - Sensor7<br />
-    GPIO1 - Sensor8<br />
-    GPIO0 - Button Configure (5s)<br />
-    GPIO2 - LED CFG<br />
+<b>- Neo Coolcam,</b><br />
+    GPIO13 - Button1<br />
+    GPIO12 - Relay1<br />
+    GPIO13 - Button Configure<br />
+    GPIO4 - LED CFG<br />
 
 <b>- RELAYS x9,</b><br />
     GPIO2 - Temperature<br />
@@ -58,6 +67,35 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
 
+<b>- SENSORS x8,</b><br />
+    GPIO2 - Temperature<br />
+    GPIO4 - Sensor1<br />
+    GPIO5 - Sensor2<br />
+    GPIO16 - Sensor3<br />
+    GPIO12 - Sensor4<br />
+    GPIO13 - Sensor5<br />
+    GPIO14 - Sensor6<br />
+    GPIO3 - Sensor7<br />
+    GPIO1 - Sensor8<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO2 - LED CFG<br />
+
+<b>- Shelly 1,</b><br />
+    GPIO5 - Button1<br />
+    GPIO4 - Relay1<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
+
+<b>- Shelly 2,</b><br />
+    GPIO12 - Button1<br />
+    GPIO14 - Button2<br />
+    GPIO4 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO0 - Button Configure (5s)<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
+
 <b>- SONOFF BASIC,</b><br />
     GPIO1 - Temperature<br />
     GPIO0 - Button1<br />
@@ -66,6 +104,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO3 - Sensor1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
+    GPIO3 - User Configurable<br />
 
 <b>- SONOFF TH,</b><br />
     GPIO14 - Temperature<br />
@@ -73,6 +112,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO12 - Relay1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- SONOFF TOUCH,</b><br />
     GPIO2 - Temperature<br />
@@ -80,6 +121,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO12 - Relay1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- SONOFF TOUCH DUAL,</b><br />
     GPIO2 - Temperature<br />
@@ -90,6 +133,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO0 - Button Configure (5s)<br />
     GPIO9 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- SONOFF TOUCH TRIPLE,</b><br />
     GPIO2 - Temperature<br />
@@ -101,6 +146,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO4 - Relay3<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO13 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- SONOFF_4CH,</b><br />
     GPIO2 - Temperature<br />
@@ -112,9 +159,10 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO5 - Relay2<br />
     GPIO4 - Relay3<br />
     GPIO15 - Relay4<br />
-    GPIO3 - Sensor1<br />
     GPIO0 - Button Configure (x10)<br />
     GPIO13 - LED CFG<br />
+    GPIO1 - User Configurable<br />
+    GPIO3 - User Configurable<br />
 
 <b>- Yunshan,</b><br />
     GPIO1 - Temperature<br />
@@ -123,18 +171,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
     GPIO5 - Sensor1<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
-
-<b>- Shelly 1,</b><br />
-    GPIO5 - Button1<br />
-    GPIO4 - Relay1<br />
-    GPIO0 - Button Configure (5s)<br />
-
-<b>- Shelly 2,</b><br />
-    GPIO12 - Button1<br />
-    GPIO14 - Button2<br />
-    GPIO4 - Relay1<br />
-    GPIO5 - Relay2<br />
-    GPIO0 - Button Configure (5s)<br />
+    GPIO1 - User Configurable<br />
 
 -------------------------------------------------
 
