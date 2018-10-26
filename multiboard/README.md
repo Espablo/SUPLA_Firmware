@@ -83,18 +83,21 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
 <b>- Shelly 1,</b><br />
     GPIO5 - Button1<br />
     GPIO4 - Relay1<br />
-    GPIO0 - Button Configure (5s)<br />
-    GPIO1 - User Configurable<br />
-    GPIO3 - User Configurable<br />
+    GPIO0 - Button Configure (5s/x10)<br />
 
 <b>- Shelly 2,</b><br />
     GPIO12 - Button1<br />
     GPIO14 - Button2<br />
     GPIO4 - Relay1<br />
     GPIO5 - Relay2<br />
-    GPIO0 - Button Configure (5s)<br />
-    GPIO1 - User Configurable<br />
-    GPIO3 - User Configurable<br />
+    GPIO0 - Button Configure (5s/x10)<br />
+
+<b>- Shelly 2 RollerShutter,</b><br />
+    GPIO12 - Button1<br />
+    GPIO14 - Button2<br />
+    GPIO4 - Relay1<br />
+    GPIO5 - Relay2<br />
+    GPIO0 - Button Configure (5s/x10)<br />
 
 <b>- SONOFF BASIC,</b><br />
     GPIO1 - Temperature<br />
