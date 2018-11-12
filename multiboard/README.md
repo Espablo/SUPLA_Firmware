@@ -4,7 +4,9 @@ Firmware v2.7.2
 
 Description https://forum.supla.org/viewtopic.php?f=11&t=3843<br />
 
-GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC
+GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br />
+
+![Pull-up](https://raw.githubusercontent.com/Espablo/SUPLA_Firmware/master/multiboard/pull-up-resistor.png)<br />
 
 <b>Supported modules:</b><br />
 <b>- ElectroDragon,</b><br />
