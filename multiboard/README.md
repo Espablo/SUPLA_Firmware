@@ -49,6 +49,13 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO1 - User Configurable<br />
     GPIO3 - User Configurable<br />
 
+<b>- Melink</b><br />
+    GPIO5 - Button1<br />
+    GPIO4 - Relay1<br />
+    GPIO5 - Button Configure<br />
+    GPIO12 - LED CFG<br />
+    GPIO3 - User Configurable<br />
+
 <b>- Neo Coolcam,</b><br />
     GPIO13 - Button1<br />
     GPIO12 - Relay1<br />
