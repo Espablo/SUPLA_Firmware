@@ -194,6 +194,12 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO2 - LED CFG<br />
     GPIO1 - User Configurable<br />
 
+<b>- YUNTONG_Smart,</b><br />
+    GPIO12 - Button1<br />
+    GPIO4 - Relay1<br />
+    GPIO12 - Button Configure<br />
+    GPIO15 - LED CFG<br />
+
 -------------------------------------------------
 
 Initial parameters for "ESP Flash Download Tool":
