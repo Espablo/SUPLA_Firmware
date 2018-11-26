@@ -50,15 +50,16 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO3 - User Configurable<br />
 
 <b>- Melink</b><br />
-    GPIO5 - Button1<br />
-    GPIO4 - Relay1<br />
+    GPIO5 - Button<br />
+    GPIO4 - Relay<br />
     GPIO5 - Button Configure<br />
     GPIO12 - LED CFG<br />
     GPIO3 - User Configurable<br />
+    GPIO13 - LED Relay<br />
 
 <b>- Neo Coolcam,</b><br />
-    GPIO13 - Button1<br />
-    GPIO12 - Relay1<br />
+    GPIO13 - Button<br />
+    GPIO12 - Relay<br />
     GPIO13 - Button Configure<br />
     GPIO4 - LED CFG<br />
 
@@ -90,8 +91,8 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO2 - LED CFG<br />
 
 <b>- Shelly 1,</b><br />
-    GPIO5 - Button1<br />
-    GPIO4 - Relay1<br />
+    GPIO5 - Button<br />
+    GPIO4 - Relay<br />
     GPIO5 - Button Configure (x10)<br />
 
 <b>- Shelly 2,</b><br />
@@ -113,7 +114,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO0 - Button1<br />
     GPIO14 - Button2<br />
     GPIO12 - Relay1<br />
-    GPIO0 - Button Configure (5s)<br />
+    GPIO0 - Button Configure <br />
     GPIO13 - LED CFG<br />
     GPIO3 - User Configurable<br />
 
@@ -132,15 +133,15 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO0 - Button1<br />
     GPIO1 - Button2<br />
     GPIO12 - Relay1<br />
-    GPIO0 - Button Configure (5s)<br />
+    GPIO0 - Button Configure<br />
     GPIO13 - LED CFG<br />
     GPIO3 - User Configurable<br />
 
 <b>- SONOFF TOUCH,</b><br />
     GPIO2 - Temperature<br />
-    GPIO0 - Button1<br />
-    GPIO12 - Relay1<br />
-    GPIO0 - Button Configure (5s)<br />
+    GPIO0 - Button<br />
+    GPIO12 - Relay<br />
+    GPIO0 - Button Configure<br />
     GPIO13 - LED CFG<br />
     GPIO1 - User Configurable<br />
     GPIO3 - User Configurable<br />
@@ -187,18 +188,19 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
 
 <b>- Yunshan,</b><br />
     GPIO1 - Temperature<br />
-    GPIO3 - Button1<br />
-    GPIO4 - Relay1<br />
-    GPIO5 - Sensor1<br />
+    GPIO3 - Button<br />
+    GPIO4 - Relay<br />
+    GPIO5 - Sensor<br />
     GPIO0 - Button Configure (5s)<br />
     GPIO2 - LED CFG<br />
     GPIO1 - User Configurable<br />
 
 <b>- YUNTONG_Smart,</b><br />
-    GPIO12 - Button1<br />
-    GPIO4 - Relay1<br />
+    GPIO12 - Button<br />
+    GPIO4 - Relay<br />
     GPIO12 - Button Configure<br />
     GPIO15 - LED CFG<br />
+    GPIO13 - LED Relay<br />
 
 -------------------------------------------------
 
