@@ -113,14 +113,14 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO1 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO14 - Button2<br />
-    GPIO12 - Relay1<br />
+    GPIO12 - Relay<br />
     GPIO0 - Button Configure <br />
     GPIO13 - LED CFG<br />
     GPIO3 - User Configurable<br />
 
 <b>- SONOFF S2X - Sonoff S20, S22 and S26 Smart Socket,</b><br />
-    GPIO0 - Button1<br />
-    GPIO12 - Relay1<br />
+    GPIO0 - Button<br />
+    GPIO12 - Relay<br />
     GPIO0 - Button Configure (5s/x10)<br />
     GPIO13 - LED CFG<br />
     GPIO1 - User Configurable<br />
@@ -132,7 +132,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO14 - Temperature<br />
     GPIO0 - Button1<br />
     GPIO1 - Button2<br />
-    GPIO12 - Relay1<br />
+    GPIO12 - Relay<br />
     GPIO0 - Button Configure<br />
     GPIO13 - LED CFG<br />
     GPIO3 - User Configurable<br />
@@ -201,6 +201,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO12 - Button Configure<br />
     GPIO15 - LED CFG<br />
     GPIO13 - LED Relay<br />
+    GPIO5 - User Configurable<br />
 
 -------------------------------------------------
 
