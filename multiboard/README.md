@@ -155,6 +155,7 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO13 - LED CFG<br />
     GPIO1 - User Configurable<br />
     GPIO3 - User Configurable<br />
+    GPIO5 - User Configurable<br />
 
 <b>- SONOFF TOUCH DUAL,</b><br />
     GPIO2 - Temperature<br />
@@ -197,7 +198,6 @@ GPIO <b>Button</b> and <b>Sensor</b> should have a 4.7k pull-up to 3.3V VCC<br /
     GPIO3 - User Configurable<br />
 
 <b>- Yunshan,</b><br />
-    GPIO1 - Temperature<br />
     GPIO3 - Button<br />
     GPIO4 - Relay<br />
     GPIO5 - Sensor<br />
