@@ -1,7 +1,7 @@
 # GUI Generic
 Supla for ESP8266 and ESP8285</br>
 
-
+https://forum.supla.org/viewtopic.php?f=11&t=7133
 -------------------------------------------------
 
 Initial parameters for "ESP Flash Download Tool":
